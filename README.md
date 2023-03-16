@@ -70,5 +70,6 @@ Contact Me:
   * **Python**
     * **[conda](https://docs.conda.io/en/latest/)**: A useful package and environment management system.
     * **[pytorch3D](https://pytorch3d.org/)**: A useful library for deep learning with 3D data.
+    * **[rich](https://github.com/Textualize/rich)**: An awesome library for rich text and beautiful formatting in the terminal.
   
 </details>
