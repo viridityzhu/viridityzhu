@@ -62,6 +62,7 @@ Contact Me:
 
   ### Programming
 
+  * **[My Linux Setup](https://github.com/viridityzhu/my_linux_setup)**
   * **[VS Code](https://github.com/microsoft/vscode)**: An open source code editor with such a big community.
   * **[Vim](https://en.wikipedia.org/wiki/Vim_(text_editor))**: The best text editor which frees you from your mouse.
   * **[iTerm2](https://iterm2.com/)**: The best replacement for Terminal on MacOS with so many features.
