@@ -34,7 +34,7 @@ Contact Me:
 
 
 <details>
-  <summary>Awesome Everything 🔭</summary>
+  <summary><strong><h3>Awesome Everything 🔭 (click to see)</h3></strong></summary>
   
   ### Hardware
 
