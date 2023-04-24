@@ -61,8 +61,7 @@ Contact Me:
   * **[Overleaf](https://www.overleaf.com)**: A free, online LaTeX editor frees you from compiling.
 
   ### Programming
-
-  * **[My Linux Setup](https://github.com/viridityzhu/my_linux_setup)**: Setup for Vim, Tmux, and some plugins.
+  
   * **[VS Code](https://github.com/microsoft/vscode)**: An open source code editor with such a big community.
   * **[Vim](https://en.wikipedia.org/wiki/Vim_(text_editor))**: The best text editor which frees you from your mouse.
   * **[iTerm2](https://iterm2.com/)**: The best replacement for Terminal on MacOS with so many features.
@@ -72,5 +71,8 @@ Contact Me:
     * **[conda](https://docs.conda.io/en/latest/)**: A useful package and environment management system.
     * **[pytorch3D](https://pytorch3d.org/)**: A useful library for deep learning with 3D data.
     * **[rich](https://github.com/Textualize/rich)**: An awesome library for rich text and beautiful formatting in the terminal.
+  
+  ### **[My Linux Setup](https://github.com/viridityzhu/my_linux_setup)**
+  Setup for Vim, Tmux, and some plugins.
   
 </details>
