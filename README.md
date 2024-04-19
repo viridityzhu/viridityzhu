@@ -15,11 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<pre>
-<img src="https://github-readme-stats.vercel.app/api?username=viridityzhu&show_icons=true&count_private=true&theme=ocean_dark" align="left" width="55%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viridityzhu&layout=compact&hide=html&theme=ocean_dark" align="right" width="40%">
-</pre>
-
+<div style="display: inline-block">
+<img src="https://github-readme-stats.vercel.app/api?username=viridityzhu&show_icons=true&count_private=true&theme=ocean_dark" align="left" style="display: inline" width="52%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viridityzhu&layout=compact&hide=html&theme=ocean_dark" align="right" style="display: inline"  width="42%">
+</div>
+<pre></pre>
+  
 
 <!-- ![viridityzhu's github stats](https://github-readme-stats.vercel.app/api?username=viridityzhu&show_icons=true&count_private=true&theme=ocean_dark) -->
 
@@ -76,3 +77,5 @@ Contact Me:
   Setup for Vim, Tmux, and some plugins.
   
 </details>
+
+![](https://komarev.com/ghpvc/?username=viridityzhu&style=for-the-badge&base=1230)
