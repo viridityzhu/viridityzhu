@@ -1,20 +1,5 @@
 ### Hi there 👋
 
-<!--
-**viridityzhu/viridityzhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <div style="display: inline-block">
 <img src="https://github-readme-stats.vercel.app/api?username=viridityzhu&show_icons=true&count_private=true&theme=ocean_dark" align="left" style="display: inline" width="52%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viridityzhu&layout=compact&hide=html&theme=ocean_dark" align="right" style="display: inline"  width="42%">
@@ -34,13 +19,12 @@ Contact Me:
 
 
 
-<details>
-  <summary><strong><h3>Awesome Everything 🔭 (click to see)</h3></strong></summary>
+<details><summary><strong>Awesome Everything 🔭 (click to see)</strong></summary>
   
   ### Hardware
 
   * **MacBook Air (M2, 2022)**
-  * **Anne Pro 2 Keyboard**
+  * **Rainy 75 Keyboards**
   * **Nintendo Switch**
   * **Nintendo Switch Pro Controller**
 
@@ -51,6 +35,7 @@ Contact Me:
 
   ### System (MacOS)
 
+  * **[Obsidian](https://obsidian.md/)**: Organize notes as they are in your mind.
   * **[Typora](https://typora.io/)**: A minimal Markdown editor with live preview.
   * **[Xmind](https://xmind.app/)**: The full-featured mind mapping and brainstorming app.
   * **[IINA](https://github.com/iina/iina)**: The best video player for macOS.
@@ -75,7 +60,6 @@ Contact Me:
   
   ### **[My Linux Setup](https://github.com/viridityzhu/my_linux_setup)**
   Setup for Vim, Tmux, and some plugins.
-  
 </details>
 
 ![](https://komarev.com/ghpvc/?username=viridityzhu&style=for-the-badge&base=1230)
