@@ -1,10 +1,18 @@
 ### Hi there 👋
 
 <div style="display: inline-block">
-<img src="https://github-readme-stats.vercel.app/api?username=viridityzhu&show_icons=true&count_private=true&theme=ocean_dark" align="left" style="display: inline" width="52%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viridityzhu&layout=compact&hide=html&theme=ocean_dark" align="right" style="display: inline"  width="42%">
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=viridityzhu&show_icons=true&count_private=true&theme=ocean_dark" align="left" style="display: inline" width="52%"> -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=viridityzhu&show_icons=true&count_private=true&theme=ocean_dark" align="left" style="display: inline" width="52%">
+  
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viridityzhu&layout=compact&hide=html&theme=ocean_dark" align="right" style="display: inline"  width="42%"> -->
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=viridityzhu&layout=compact&hide=html&theme=ocean_dark" align="left" style="display: inline"  width="42%">
 </div>
-<pre></pre>
+<p align="center">
+  <img src="https://wakatime.com/share/@jyzhu/6a27f97e-6212-44b7-944c-91045cc09630.svg" align="center" style="display: inline; padding:20" padding="20%" width="60%">
+</p>
+
+<!-- <pre></pre> -->
+<br/>
   
 
 <!-- ![viridityzhu's github stats](https://github-readme-stats.vercel.app/api?username=viridityzhu&show_icons=true&count_private=true&theme=ocean_dark) -->
@@ -62,4 +70,4 @@ Contact Me:
   Setup for Vim, Tmux, and some plugins.
 </details>
 
-![](https://komarev.com/ghpvc/?username=viridityzhu&style=for-the-badge&base=1230)
+![](https://komarev.com/ghpvc/?username=viridityzhu&style=for-the-badge)
