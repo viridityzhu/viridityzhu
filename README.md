@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p align="center">
-  <img src="https://raw.githubusercontent.com/viridityzhu/viridityzhu/f56cb58e6831f225da0633f074e297cb788a84bd/profile-3d-contrib/profile-gitblock.svg" >
+  <img src="./profile-3d-contrib/profile-gitblock.svg" >
 </p>
 <div style="display: inline-block">
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=viridityzhu&show_icons=true&count_private=true&theme=ocean_dark" align="left" style="display: inline" width="52%"> -->
